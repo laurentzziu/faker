@@ -74,9 +74,9 @@ ro:
         - "#{first_name} #{first_name} #{last_name}"
         - "#{first_name} #{first_name} #{last_name}"
     phone_number:
-      formats: ['###-###-####', '(###) ###-####', '1-###-###-####', '###.###.####', '###-###-####', '(###) ###-####', '1-###-###-####', '###.###.####', '###-###-#### x###', '(###) ###-#### x###', '1-###-###-#### x###', '###.###.#### x###', '###-###-#### x####', '(###) ###-#### x####', '1-###-###-#### x####', '###.###.#### x####', '###-###-#### x#####', '(###) ###-#### x#####', '1-###-###-#### x#####', '###.###.#### x#####']
+      formats: ['02########', '021#######', '03########', '031#######']
     cell_phone:
-      formats: ['###-###-####', '(###) ###-####', '1-###-###-####', '###.###.####']
+      formats: ['07########', '07##-###-###', '07##-##-##-##']
     science:
       element: ["Actiniu", "Aluminiu", "Americiu", "Argint", "Argon", "Arsen", "Astatiniu", "Aur", "Azot", "Bariu", "Beriliu", "Berkeliu", "Bismut", "Bor", "Bohriu", "Brom", "Cadmiu", "Calciu", "Californiu", "Carbon", "Ceriu", "Cesiu", "Clor", "Cobalt", "Coperniciu", "Crom", "Cupru", "Curiu", "Darmstadtiu", "Disprosiu", "Dubniu", "Einsteiniu", "Erbiu", "Europiu", "Fermiu", "Fier", "Fleroviu", "Fluor", "Fosfor", "Franciu", "Gadoliniu", "Galiu", "Germaniu", "Hafniu", "Hassiu", "Heliu", "Hidrogen", "Holmiu", "Indiu", "Iod", "Iridiu", "Kripton", "Lantan", "Lawrențiu", "Litiu", "Livermoniu", "Lutețiu", "Magneziu", "Mangan", "Meitneriu", "Mendeleeviu", "Mercur", "Molibden", "Moscoviu", "Neodim", "Neon", "Neptuniu", "Nichel", "Nihoniu", "Niobiu", "Nobeliu", "Oganesson", "Osmiu", "Oxigen", "Paladiu", "Platină", "Plumb", "Plutoniu", "Poloniu", "Potasiu", "Praseodim", "Promețiu", "Protactiniu", "Radiu", "Radon", "Reniu", "Rodiu", "Roentgeniu", "Rubidiu", "Ruteniu", "Rutherfordiu", "Samariu", "Scandiu", "Seaborgiu", "Seleniu", "Siliciu", "Sodiu", "Staniu", "Stibiu", "Stronțiu", "Sulf", "Taliu", "Tantal", "Tehnețiu", "Telur", "Tennessine", "Terbiu", "Titan", "Toriu", "Tuliu", "Unbiniliu", "Ununeniu", "Uraniu", "Vanadiu", "Wolfram", "Xenon", "Yterbiu", "Ytriu", "Zinc", "Zirconiu"]
     space:
